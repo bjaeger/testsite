@@ -1,6 +1,8 @@
 ---
-title: "My First xapio about page"
-date: 2018-10-22T17:04:13+02:00
-draft: False
+title: My First xapio about page
+intro: '# **Hallo xapio**'
+team:
+  - name: bbb
+    position: chief
 ---
-Hallo about page
+
