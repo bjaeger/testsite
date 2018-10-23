@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New xapio Hugo Site"
+disqusShortname = "b.jaeger"
+theme = "ananke"
